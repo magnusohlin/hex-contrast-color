@@ -1,6 +1,6 @@
 {
   "name": "hex-contrast-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return a contrasting hex text color for a specific hex background color",
   "author": "magnusohlin <ma.ohlin@gmail.com>",
   "bugs": {
