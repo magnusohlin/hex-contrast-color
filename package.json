@@ -4,7 +4,7 @@
   "description": "Return a contrasting hex text color for a specific hex background color",
   "author": "magnusohlin <ma.ohlin@gmail.com>",
   "bugs": {
-    "url": "https://github.com/magnusohlin/testmail/issues"
+    "url": "https://github.com/magnusohlin/hex-contrast-color/issues"
   },
   "main": "index.js",
   "devDependencies": {
