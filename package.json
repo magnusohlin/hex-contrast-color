@@ -1,0 +1,17 @@
+{
+  "name": "hex-contrast-color",
+  "version": "1.0.0",
+  "description": "Return a contrasting hex text color for a specific hex background color",
+  "author": "magnusohlin <ma.ohlin@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/magnusohlin/testmail/issues"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}

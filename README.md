@@ -1,2 +1,2 @@
-# text-contrast-color
-Return a contrasting hex text color for a specific hex background color
+# hex-contrast-color
+Return a contrasting hex color for text (Black or White) for a supplied hex background color
